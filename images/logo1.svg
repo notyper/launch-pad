@@ -26,7 +26,7 @@
      showgrid="false"
      inkscape:zoom="4.3777778"
      inkscape:cx="4.5685279"
-     inkscape:cy="31.180203"
+     inkscape:cy="31.408629"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -88,11 +88,11 @@
     <text
        xml:space="preserve"
        id="text111"
-       style="white-space:pre;shape-inside:url(#rect113);display:inline;fill:#f9f9f9"
-       transform="translate(18.224609,10.429687)"><tspan
+       style="white-space:pre;shape-inside:url(#rect113);display:inline;fill:#ffffff"
+       transform="matrix(0.9335402,0,0,1,21.549173,10.429687)"><tspan
          x="17.400391"
          y="82.880859"
-         id="tspan375">jackman ideaware</tspan></text>
+         id="tspan379">jackman ideaware</tspan></text>
     <ellipse
        style="opacity:0.397;mix-blend-mode:normal;fill:#aca793;fill-opacity:0.889902;stroke:url(#meshgradient3008);stroke-width:0.781543;stroke-opacity:1"
        id="path327"
