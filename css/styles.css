@@ -24,8 +24,8 @@ body {
   margin-bottom: 0;
   background-color: #1F2937;
   color: #F9FAF8;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 10%;
+  padding-right: 10%;
   width: 100%;
 
 
@@ -39,12 +39,15 @@ button {
   height: 30px;
   border-radius: 8%;
   font-size: 14px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 
   
 }
 
 .logo {
   padding-right: 10px;
+  padding-top: 10px;
 }
 
 .header-nav,
@@ -65,8 +68,8 @@ ul {
   background-color: #1F2937;
 
   padding: 50px;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 10%;
+  padding-right: 10%;
   flex-wrap: wrap;
   flex: 1 0 0;
   width: 100%;
@@ -84,13 +87,14 @@ ul {
   font-size: 48px;
   font-weight: bolder;
   color: #F9FAF8;
-  max-width: 200;
+  max-width: 200;padding-bottom: 20px;
 
 }
 
 .content {
   color: #e5e7eb;
   font-size: 18px;
+  gap: 20px;
 }
 
 .main_content {
@@ -210,5 +214,6 @@ a {
 .footer, button {
   border-color: white;
   border-style: solid;
-  padding-5px
+  padding: 5px;
+  min-width: 75px;
 }
