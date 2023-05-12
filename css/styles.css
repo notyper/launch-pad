@@ -71,16 +71,17 @@ ul {
   padding-left: 10%;
   padding-right: 10%;
   flex-wrap: wrap;
-  flex: 1 0 0;
+  flex: 1 1 0;
   width: 100%;
 }
 
 .left {
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: space-around;
   align-items: flex-start;
-
+  max-width: 300px;
+ 
 }
 
 .title_1 {
